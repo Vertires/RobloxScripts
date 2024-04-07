@@ -1,6 +1,3 @@
---SCRIPT
-loadstring(game:HttpGet("https://pastebin.com/raw/UZeGnCJ7"))()
-
 
 -- Instances:
 
